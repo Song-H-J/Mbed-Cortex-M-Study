@@ -12,4 +12,3 @@ int main()
         ThisThread::sleep_for(1s); // wait_us(), wait_ns(), ThisThread::sleep_for()을 사용함. 
     }
 }
-
